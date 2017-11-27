@@ -23,6 +23,11 @@ a {
   color: #ff9500;
 }
 
+.icon {
+  display: block;
+  margin: auto;
+}
+
 .container {
   border-bottom: rgba(255, 255, 255, .3) solid 3px;
 }
