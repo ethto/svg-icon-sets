@@ -27,6 +27,10 @@ a {
   border-bottom: rgba(255, 255, 255, .3) solid 3px;
 }
 
+.icon {
+  fill: #fff;
+}
+
 @media only screen and (min-width: 60em) {
 
   .container {
